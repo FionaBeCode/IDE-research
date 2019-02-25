@@ -1,29 +1,30 @@
 #Integrated Development Environments (IDEs) Research 
 
 
-#__Potential Candidates__
+# __Potential Candidates__
 
-*Visual Studi0*
+Some key features:
+*Visual Studio*
 expensive
 Strong all round flexible software
 autocomplete in C#  aware of all variables in your code
 lots of languages supported 
 heavy 
 
+__*Sublime Text*__
 
-*Sublime Text*
-*Atom 
+__*Atom*__ 
 syntax highlighting 
 customizable interfaces 
  
-*Eclipse* 
+__*Eclipse*__
 easy interface 
 error flagging
 
-*SciTE*
+__*SciTE*__
 Free Opensource
 
-*Cloud 9 IDE* 
+__*Cloud 9 IDE*__
 Online editor
 
 
@@ -36,35 +37,41 @@ Deciding bewteen Atom, visual studio code
 
 # *Important to me:*
 
-__allow you to easily navigate through files and code__
-__debugger__
-__project management__
-__languages it can support__
-__student friendly__
-__cost__ *preference low cost* 
+1. __allow you to easily navigate through files and code__
+
+1. __debugger__
+
+1. __project management__
+
+1. __languages it can support__
+
+1. __student friendly__
+
+1. __cost__ *preference low cost* 
 
 
 
-#__Pros__
+# __Pros__
 
-## + Autocomplete 
-## + Debugger
-## + Ideal for students learning small projects 
-## + develop, test and deploy
-## + extensions
+ + Autocomplete 
+ + Debugger
+ + Ideal for students learning small projects 
+ + develop, test and deploy
+ + extensions
+ + large online community for support
 
-#__Cons__
+# __Cons__
 
-## - heavy
-## - 
-## -
-
-
+ - heavy
+ - 
+ -
 
 
-#__Final decision__ 
 
-Visual Studio Code
 
-Good allrounder to learn and expand it a widely used IDE, tips and help online. 
+# __Final decision__ 
+
+[Visual Studio Code](https://code.visualstudio.com/)
+
+Good all-rounder to learn and expand it a widely used IDE, tips and help online. 
 
