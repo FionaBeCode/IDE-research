@@ -3,8 +3,9 @@
 
 # __Potential Candidates__
 
-Some key features:
-*Visual Studio*
+## Some key features:
+
+__*Visual Studio*__
 expensive
 Strong all round flexible software
 autocomplete in C#  aware of all variables in your code
@@ -35,7 +36,7 @@ so withdrew that thought.
 
 
 
-Deciding bewteen [__Atom__](https://atom.io/), [Visual Studio Code](https://code.visualstudio.com/)
+Deciding bewteen [__Atom__](https://atom.io/) and  [__Visual Studio Code__](https://code.visualstudio.com/)
 
 # *Important to me:*
 
@@ -49,7 +50,7 @@ Deciding bewteen [__Atom__](https://atom.io/), [Visual Studio Code](https://code
 
 1. __student friendly__
 
-1. __cost__ *preference low cost* 
+1. __cost__ :*preference low cost* 
 
 
 
