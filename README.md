@@ -1,4 +1,4 @@
-#Integrated Development Environments (IDEs) Research 
+# Integrated Development Environments (IDEs) Research 
 
 
 # __Potential Candidates__
@@ -28,12 +28,14 @@ __*Cloud 9 IDE*__
 Online editor
 
 
-I was drawn to Aptana studio 3, but link shows not secure. so withdrew that thought. 
-however its feature seemed ideal 
+I was drawn to __Aptana studio 3__, 
+but link shows not secure. 
+so withdrew that thought. 
+*however its features seemed ideal* 
 
 
 
-Deciding bewteen Atom, visual studio code 
+Deciding bewteen [__Atom__](https://atom.io/), [Visual Studio Code](https://code.visualstudio.com/)
 
 # *Important to me:*
 
