@@ -65,8 +65,10 @@ Deciding bewteen [__Atom__](https://atom.io/), [Visual Studio Code](https://code
 # __Cons__
 
  - heavy
- - 
- -
+ - microsoft 
+ - learning curve
+	 
+	
 
 
 
